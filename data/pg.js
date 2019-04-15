@@ -1,6 +1,7 @@
 //https://github.com/graphile/postgraphile-example-apollo-server/blob/master/server.js
 
 require('dotenv').config();
+
 const pg = require('pg');
 const { makeSchemaAndPlugin } = require('postgraphile-apollo-server');
 
