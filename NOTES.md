@@ -10,3 +10,7 @@ Database Options
     - with Prisma
     - with postgraphile <br>
     `npm install pg postgraphile  postgraphile-apollo-server`
+
+
+Authentication
+https://medium.com/@aboudicheng/implementing-jwt-authentication-in-mern-stack-with-graphql-part-i-9a4fb0c0ff24    
